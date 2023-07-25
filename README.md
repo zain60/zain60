@@ -4,7 +4,7 @@ I'm a Full Stack Blockchain Developer with a passion for building decentralized 
 
 ## My Resume
 
-You can find my latest resume in this [Repo](https://github.com/zain60/zain60/blob/main/RESUME.md).
+To find my latest resume Click here.. [Link](https://github.com/zain60/zain60/blob/main/RESUME.md).
 
 ## Skills
 
@@ -34,8 +34,6 @@ I'm also proficient in MERN stack development:
 
 ## Contact
 
-## Resume
-https://github.com/zain60/zain60/blob/main/RESUME.md
 
 You can reach me at zainengr00@gmail.com
 
