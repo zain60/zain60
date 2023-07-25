@@ -4,7 +4,7 @@ I'm a Full Stack Blockchain Developer with a passion for building decentralized 
 
 ## My Resume
 
-You can find my latest resume in this [GitHub Repository](https://github.com/zain60//blob/main/RESUME.md).
+You can find my latest resume in this [Repo](https://github.com/zain60/zain60/blob/main/RESUME.md).
 
 ## Skills
 
