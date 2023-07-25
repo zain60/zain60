@@ -1,6 +1,6 @@
 # Zain-ul-Abdeen
 
-📍 Azad Kashmir, Pakistan | 📞 +92 3460-226919 | 📧 zainengr00@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/zain-ul-abdeen) | 🌐 [GitHub](https://github.com/zain60)
+📍 Azad Kashmir, Pakistan | 📞 +92 3460-226919 | 📧 zainengr00@gmail.com | 🌐 [LinkedIn]https://www.linkedin.com/in/zainengr/ | 🌐 [GitHub](https://github.com/zain60)
 
 ## About Me
 
