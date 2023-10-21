@@ -16,9 +16,10 @@
 </div>
 
 
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Zain Ul Abdeen
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Zain ul Abdeen 👋 I'm a 🚀Full Stack Blockchain Developer  🚀 ">
+</p>
 
-I'm a Full Stack Blockchain Developer with a passion for building decentralized applications. I have experience in building smart contracts and working with various blockchain platforms like Ethereum and Solidity.
 
 ## My Resume
 
