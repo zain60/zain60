@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=your-github-zain60&label=PROFILE+VIEWS)  
 
-<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 # Hello, I'm Zain ul Abdeen!
 
 I'm a Full Stack Blockchain Developer with a passion for building decentralized applications. I have experience in building smart contracts and working with various blockchain platforms like Ethereum and Solidity.
