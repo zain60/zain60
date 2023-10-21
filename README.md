@@ -23,6 +23,9 @@ I'm a Full Stack Blockchain Developer with a passion for building decentralized 
 ## My Resume
 
 To find my latest resume Click here.. [Link](https://github.com/zain60/zain60/blob/main/RESUME.md).
+
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwind" alt="CSS/tailwind" width="40" height="40"/>&nbsp;
@@ -32,9 +35,6 @@ To find my latest resume Click here.. [Link](https://github.com/zain60/zain60/bl
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt = "solidity" height = "40" />
 </div>
-
-## Skills
-
 
 - Blockchain Development
 - Ethereum
