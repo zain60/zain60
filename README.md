@@ -1,4 +1,4 @@
-# Hello, I'm Zain ul Abdeen!
+![](https://komarev.com/ghpvc/?username=your-github-zain60&label=PROFILE+VIEWS)# Hello, I'm Zain ul Abdeen!
 
 I'm a Full Stack Blockchain Developer with a passion for building decentralized applications. I have experience in building smart contracts and working with various blockchain platforms like Ethereum and Solidity.
 
