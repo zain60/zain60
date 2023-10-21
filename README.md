@@ -39,4 +39,6 @@ I'm also proficient in MERN stack development:
 
 You can reach me at zainengr00@gmail.com
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zain60)](https://github.com/zain60/github-readme-stats)
+
 
