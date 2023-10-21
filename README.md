@@ -15,12 +15,6 @@
 </div>
 </div>
 
-
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Zain ul Abdeen 👋 I'm a 🚀Full Stack Blockchain Developer  🚀 ">
-</p>
-
-
 ## My Resume
 
 To find my latest resume Click here.. [Link](https://github.com/zain60/zain60/blob/main/RESUME.md).
