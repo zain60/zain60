@@ -15,6 +15,8 @@
 </div>
 </div>
 
+# ![Hi, I'm Zain ul Abdeen](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+Zain!👋🏼;+;+)
+
 ## My Resume
 
 To find my latest resume Click here.. [Link](https://github.com/zain60/zain60/blob/main/RESUME.md).
