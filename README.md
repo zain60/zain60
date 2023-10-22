@@ -15,11 +15,12 @@
 </div>
 </div>
 
-# ![Hi, I'm Zain ul Abdeen](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+Zain!👋🏼;+;+)
+# ![Hi, I'm Zain ul Abdeen](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+Zain-ul-Abdeen!👋🏼;+;+)
 
-## My Resume
-
-To find my latest resume Click here.. [Link](https://github.com/zain60/zain60/blob/main/RESUME.md).
+<h2>About me</h2>
+- 💬 Ask me about **Web development**
+- 📫 How to reach me **zainengr00@gmail.com**
+- My latest resume .. [Link](https://github.com/zain60/zain60/blob/main/RESUME.md).
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -44,11 +45,6 @@ To find my latest resume Click here.. [Link](https://github.com/zain60/zain60/bl
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zain60&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-## Contact
-
-You can reach me at zainengr00@gmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zain60)](https://github.com/zain60/github-readme-stats)
 
