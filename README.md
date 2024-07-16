@@ -38,9 +38,9 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
-<code><img height="40" src="i[mages/icons/ethereum.png"](https://github.com/brnaldomesi/brnaldomesi/blob/main/images/icons/ethereum.png)></code>
-<code><img height="40" src="images/icons/flow.png"></code>
-<code><img height="40" src="images/icons/solidity.png"></code>
+<code><img height="40" src="https://github.com/brnaldomesi/brnaldomesi/blob/main/images/icons/ethereum.png"></code>
+<code><img height="40" src="https://github.com/brnaldomesi/brnaldomesi/blob/main/images/icons/flow.png"></code>
+<code><img height="40" src="https://github.com/brnaldomesi/brnaldomesi/blob/main/images/icons/solidity.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
